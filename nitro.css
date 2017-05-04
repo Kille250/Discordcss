@@ -1,5 +1,5 @@
 .avatar-large[style*="a_"] + .comment .message.first .body .username-wrapper:after {
-	content: 'Nitro';
+	content: 'Nigga';
 	color: white;
 	margin-left: 5px;
 	background: #fc964b;
@@ -15,7 +15,7 @@
 }
 
 .member.member-status > .avatar-small[style*="a_"] + .member-inner .member-username:after {
-	content: 'Nitro';
+	content: 'Nigga';
 	color: white;
 	margin-left: 5px;
 	background: #fc964b;
